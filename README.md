@@ -2,7 +2,7 @@
 
 ## Consignes
 
-Écrire une fonction `filtrerPairs` qui prend en paramètre un tableau de nombres et retourne un nouveau tableau contenant uniquement les nombres pairs du tableau d'origine.
+Écrivez une fonction `filtrerPairs` qui prend en paramètre un tableau de nombres et retourne un nouveau tableau contenant uniquement les nombres pairs du tableau d'origine.
 
 L'ordre des éléments doit être préservé.
 
